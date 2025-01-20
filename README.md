@@ -1,5 +1,3 @@
-
-
 # Animated bottom bar
 
 AnimatedBottomBar is bottom navigation bar with customizable bubble like tabs
@@ -72,7 +70,7 @@ Add onclick listener
                }
            })
 ```
-### Connect with components like [ViewPager](https://github.com/akshay2211/BubbleTabBar/blob/master/README.md#setup-viewpager-to-bubbletabbar), [ViewPager2](https://github.com/akshay2211/BubbleTabBar#setup-viewpager2-to-bubbletabbar) and [NavController](https://github.com/akshay2211/BubbleTabBar#setup-navcontroller-to-bubbletabbar)
+### Connect with components like [ViewPager], [ViewPager2] and [NavController]
 #### Setup ViewPager to BubbleTabBar
 
 ```kotlin
@@ -111,7 +109,7 @@ Add onclick listener
 
 #### Setup NavController to BubbleTabBar
 
-*onNavDestinationSelected* can be found in [here](https://github.com/akshay2211/BubbleTabBar/blob/cad8bdc3b634410c4d76c99853016e955f9fac70/app/src/main/java/com/fxn/bubbletabbarapp/utils/Helper.kt#L36)
+*onNavDestinationSelected
 
 ```kotlin
 
