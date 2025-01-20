@@ -1,8 +1,8 @@
 
 
-# BubbleTabBar
+# Animated bottom bar
 
-BubbleTabBar is bottom navigation bar with customizable bubble like tabs
+AnimatedBottomBar is bottom navigation bar with customizable bubble like tabs
 
 ![](media/demo.gif)
 
